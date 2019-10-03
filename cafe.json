@@ -1,0 +1,49 @@
+{
+	"first_order_time": "09:30",
+	"last_order_time": "20:30",
+	"time_location": "Europe/Kiev",
+	"time_slot_interval_min": 15,
+	"orders_channel": "*******",
+	"menu": {
+		"🥗 Salads": [
+			"85 Caesar salad",
+			"90 Arugula salad with feta cheese",
+			"90 Chicken salad in orange. sauces"
+		],
+		"🍳 Breakfast": [
+			"70 Sirniki",
+			"65 Omelet with vegetables",
+			"68 Omelette with bacon and cheese",
+			"55 Toast with ham and cheeseм"
+		],
+		"🍔 Burgers": [
+			"95Burger with veal",
+			"90 Burger with turkey",
+			"105 Salmon burgers"
+		],
+		"🍲 First courses": [
+			"95 Ear with salmon and vegetables",
+			"65 Broth with hen",
+			"85 Gaspacho"
+		],
+		"🍝 Pastes": [
+			"95 Pasta with chicken and spinach",
+			"125 Pasta with seafood",
+			"102 Pasta with veal"
+		],
+		"🥘 Main Dishes": [
+			"75 Turkey steak",
+			"82 Beef steak",
+			"65 Chicken steak",
+			"60 Картошка",
+			"60 Potatoes",
+			"60 Buckwheat",
+			"60 Кус-кус",
+			"60 Grilled vegetables"
+		],
+		"🥄 Children's menu": [
+			"92 Turkey spaghetti with turkey",
+			"98 Mashed potatoes with mitballs"
+		]
+	}
+}
